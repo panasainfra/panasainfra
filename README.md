@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- panasainfra.com
+- www.panasainfra.com
 - for all social media search
-- www.panasainfra
+- panasainfra
 
 <!---
 panasainfra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
